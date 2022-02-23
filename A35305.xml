@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cruel and barbarous news from Cheapside in London being a true and faithful relation of an horid fact, acted by an unhuman mistriss upon the body of her apprentice ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35305</idno>
+            <idno type="STC">Wing C7415</idno>
+            <idno type="STC">ESTC R41334</idno>
+            <idno type="EEBO-CITATION">31355018</idno>
+            <idno type="OCLC">ocm 31355018</idno>
+            <idno type="VID">110310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1737:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cruel and barbarous news from Cheapside in London being a true and faithful relation of an horid fact, acted by an unhuman mistriss upon the body of her apprentice ...</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.P.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Assault and battery --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110310:1" rendition="simple:additions"/>
+            <p>Cruel and Barbarous News From GHEAPSIDE in <hi>LONDON:</hi> Being a True and Faithful RELATION Of an horid Fact, acted by an unhuman Miſtriſs upon the body of her Apprentice, who for want of the fear of God, hired two men to ſtrip him naked and bind him to a Spit, intending to Roaſt him alive, but by the providence of Al<g ref="char:EOLhyphen"/>mighty God was prevented, for having ſtoped his mouth with a clout, turning him about until he was very much ſcorched, with ſtriving for life the clout draped out, and then crying out murder the Neighbors by violence broak open the door, and delivered the poor wrech from the unmercy<g ref="char:EOLhyphen"/>ful Flames, from which the Lord deliver us.</p>
+            <p>Printed for W. P. 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110310:2"/>
+            <pb n="1" facs="tcp:110310:2"/>
+            <head>Cruel and Barbarous News From GHEAPSIDE, in <hi>LONDON:</hi>
+            </head>
+            <p>HOW many wicked, cruel and unhu<g ref="char:EOLhyphen"/>man Acts of Murder do we almoſt dayly hear of, ſo that we may juſtly crie out with the Prophet, <hi>The people have ſold themſelves to do wickedneſs,</hi> and for want of the fear of God, they ſtill run on in their wicked courſes until they deſtroy both body and ſoul to all eternity, not once thinking that they muſt one day give an account for all their wicked works which they do here commit; But
+<pb n="2" facs="tcp:110310:3"/>wo unto them that do harbour ſuch thoughts in their breſt, much more to commit ſuch unheard of cruelties: Alas poor ſouls they think not what an<g ref="char:EOLhyphen"/>ſwer they muſt make before the great Tribunal ſeat of God; then they would wiſh <hi>they had never been born,</hi> or <hi>the mountains to fall upon them,</hi> or <hi>the Hills to cover them from the preſence of the moſt high God.</hi>
+            </p>
+            <p>But now to leave this digreſion and come to the Relation of this unhuman fact. I think that if it be conſidered in all the circumſtances, there has not been heard of, in our age, a Fact more barbarous then what this Relation gives you, of a <hi>Scale-makers</hi> wife living near unto <hi>Cheapſide.</hi> She was of light carriage, and uſed to frequent Taverns and Play<g ref="char:EOLhyphen"/>houſes, as many people do report; for ſhe allwais took Coach when ſhe went out, but as ſhe came back again ſhe alighted in <hi>Cheapſide,</hi> and came home a foot, becauſe ſhe uſed to frequent a houſe thereabout, or not far from the place where ſhe was ſet down.</p>
+            <p>Her huſband being as I told you before a <hi>Scale-maker</hi> and a Common-Council-man of the City was many times from home about his occaſions, &amp; did little think that his Wife did follow ſuch lewd courſes and bad company; but one day coming home before he was expected, asked the Apprentice where his Miſtriſs was, to which he anſwered he
+<pb n="3" facs="tcp:110310:3"/>knew not, and within a ſhort time after ſhe came home and all was quiet.</p>
+            <p>About two or three daies after her huſband being from home, ſhe ſent the Apprentice into <hi>Cheap<g ref="char:EOLhyphen"/>ſide</hi> to call a Coach, which he did according to her command, and the Coach man came to the door with him, and ſhe being ready equiped for her (not long journey) away ſhe went.</p>
+            <p>This Apprentice, that afternoon had been a broad in the City about his Maſters buſineſs, and as he was coming home, ſaw his Miſtris alight out of the Coach, and went into this ſuſpected houſe which I before told you of, and when he came home was a<g ref="char:EOLhyphen"/>bout his Imployment, and ſoon after his Maſter came home and asked him where his Miſtris was, and he told him that ſhe was at one Mr. <hi>Drapyers,</hi> O ſaid his Maſter doth ſhe lay up her time in a Baudy Houſe, S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rah goe and call her, and ſo he did, and when ſhe came home her Huſband asked what her buſineſs was at that houſe, and told her that it was counted a Baudy Houſe, (ſhe could have told him that) but ſhe ſaid ſhe had been there to ſee a Sick body, and ſo paſified her Huſband.</p>
+            <p>The next Morning when her Huſband was gon out, ſhe asked the Apprentice how his Maſter knew where ſhe was, and he told her that he ſaw you goe
+<pb n="4" facs="tcp:110310:4"/>thither; Sirrah ſaid ſhe I will make you an example to all teltails, and from that time, &amp; ever after, told him that he ſhould beweare how he told any more tails, and he poor wrech little thinking what Barbarous thoughts ſhe harboured in her Breaſt. Upon a-time when ſhe knew her Huſband was from home, ſent for two Men which ſhe had more love for, then ſhe had for her Huſband; called in the Boy and told him that he ſhould die the crueleſt death that ever could be thought on, or deviſed, and imediately the two men that were there, layd hold on him, and ſtriped him naked unto the skin, and bound him to a Spit, and having kindled a Fire and ſtopped his Mouth with a Clout, layed down this poor harmleſs Creature to the Fire, and turned him round until he was ſorely ſcorched, but with long ſtriving for life he got the Clout out of his Mouth, and cried out Mur<g ref="char:EOLhyphen"/>der, and with many doleful ſcreeks and cries that the neighbours made all poſſible ſpeed to deliver this poor, innocent and harmleſs wretch from this a<g ref="char:EOLhyphen"/>maiſing and horrid death, which through Gods infinite bleſſing they attained.</p>
+            <p>Whileſt they were comforting this poor crea<g ref="char:EOLhyphen"/>ture, and hearing him give this preſent Relation, his Miſtriſs and the two men her wicked aſſiſt<g ref="char:EOLhyphen"/>ants made their eſcape.</p>
+            <pb n="5" facs="tcp:110310:4"/>
+            <p>This ſad newes being noiſed abroad in the City, the Apprentices preſently made a riſing, intend<g ref="char:EOLhyphen"/>ing to have pulled down the houſe, but the Right Worſhipful the Lord Major, and his Officers and Conſtables of the City, and their aſſiſtants, de<g ref="char:EOLhyphen"/>ſired them to forbear, promiſing them that if either the Woman, or the two cruel men her com<g ref="char:EOLhyphen"/>panions, could poſſibly be apprehended, they ſhould be proceeded againſt according to Law.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
